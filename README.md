@@ -1,7 +1,15 @@
 ### Hi there 👋
+### I'm Asif
 
-🌱 I’m currently a student of CSE at BRAC UNiversity.\
-⚡ Fun fact: I love play games.
+- 🌱 I’m a student of CSE at BRAC UNiversity.
+- 🤔 And I'm learing slowly with friends and roomies.
+- ⚡ Fun fact: I love play games.
+
+### My Social links:
+[Facebook](https://www.facebook.com/profile.php?id=100008123491899).
+### Language and others:
+
+
 
 <!--
 **MD-Ragib-Asif/MD-Ragib-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
