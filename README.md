@@ -1,6 +1,4 @@
 ### Hi there 👋
-WordLink.apply(text, '(GO)', 'http://imragib.me/');
-![imragib.me GO](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 
 🌱 I’m currently a student of CSE at BRAC UNiversity.
 ⚡ Fun fact: I love play games.
