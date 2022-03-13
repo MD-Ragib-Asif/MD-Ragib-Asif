@@ -6,9 +6,10 @@
 - ⚡ Fun fact: I love play games.
 
 ### My Social links:
-[Facebook](https://www.facebook.com/profile.php?id=100008123491899). [![plot](Icon/instagram-round-line-color.png)](https://www.instagram.com/ragib_asif/?hl=en).
+[<img src="Image/facebook-app.png" width="30">](https://www.facebook.com/profile.php?id=100008123491899). [<img src="Image/instagram-round-line-color.png" width="30">](https://www.instagram.com/ragib_asif/?hl=en). [<img src="Image/twitter-app.png" width="30">](https://twitter.com/MRagibAsif). [<img src="Image/discord.png" width="30">](https://discord.com/invite/EUkswrpE9y). [<img src="Image/linkedin-round-line-color.png" width="30">](https://www.linkedin.com/in/md-ragib-asif-aa931721b/).
 ### Language and others:
-![alt text](https://github.com/[MD-Ragib-Asif]/[MD-Ragib-Asif]/blob/[master]/Icon/7-2-python-logo-free-download-png.png?raw=true)
+<img src="Image/7-2-python-logo-free-download-png.png" width="30"> <img src="Image/visual-studio-code.png" width="30">
+
 
 <!--
 **MD-Ragib-Asif/MD-Ragib-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- for image input with link: [<img src="" width="">](). 
+use upward as a templete
 
 -->
