@@ -1,11 +1,5 @@
 ### Hi there 👋
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink-"http://www.w3.org/1999/xlink" width-"134" height-"20" role-"img" aria-label-"[SUBJECT]: [STATUS]">
-  <title> [SUBJECT]: [STATUS]</title>
-  <linearGradient id-"s" x2-"e" y2-"100%">...</linearGradient>
-  <clipPath id-"r">...</clipPath>
-  <g clip-path-"url(#r)">...</g>
-  <g fill-"#fff" text-anchor="middle" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" text-rendering="geometricPrecision" font-size="110">...</g>
-</svg>
+![imragib.me GO](https://img.shields.io/badge/build-succeeded-brightgreen.svg)
 
 🌱 I’m currently a student of CSE at BRAC UNiversity.
 ⚡ Fun fact: I love play games.
@@ -23,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+WordLink.apply(text, '(GO)', 'http://imragib.me/');
 -->
