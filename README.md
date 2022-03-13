@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently a student of CSE at BRAC UNiversity. \n
+🌱 I’m currently a student of CSE at BRAC UNiversity.\
 ⚡ Fun fact: I love play games.
 
 <!--
