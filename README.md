@@ -6,10 +6,9 @@
 - ⚡ Fun fact: I love play games.
 
 ### My Social links:
-[Facebook](https://www.facebook.com/profile.php?id=100008123491899).
+[Facebook](https://www.facebook.com/profile.php?id=100008123491899). [![plot](Icon/instagram-round-line-color.png)](https://www.instagram.com/ragib_asif/?hl=en).
 ### Language and others:
-
-
+![alt text](https://github.com/[MD-Ragib-Asif]/[MD-Ragib-Asif]/blob/[master]/Icon/7-2-python-logo-free-download-png.png?raw=true)
 
 <!--
 **MD-Ragib-Asif/MD-Ragib-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
