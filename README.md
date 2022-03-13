@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - for image input with link: [<img src="" width="">](). 
 use upward as a templete
+twitter follow templete: <a class="twitter-follow-button" href="https://twitter.com/MRagibAsif" data-size="large"> Follow @MRagibAsif</a>
 
 -->
