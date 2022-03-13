@@ -1,4 +1,14 @@
 ### Hi there 👋
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink-"http://www.w3.org/1999/xlink" width-"134" height-"20" role-"img" aria-label-"[SUBJECT]: [STATUS]">
+  <title> [SUBJECT]: [STATUS]</title>
+  <linearGradient id-"s" x2-"e" y2-"100%">...</linearGradient>
+  <clipPath id-"r">...</clipPath>
+  <g clip-path-"url(#r)">...</g>
+  <g fill-"#fff" text-anchor="middle" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" text-rendering="geometricPrecision" font-size="110">...</g>
+</svg>
+
+🌱 I’m currently a student of CSE at BRAC UNiversity.
+⚡ Fun fact: I love play games.
 
 <!--
 **MD-Ragib-Asif/MD-Ragib-Asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
