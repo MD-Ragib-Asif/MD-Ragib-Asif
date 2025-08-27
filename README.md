@@ -13,8 +13,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
+<!-- 
 ### My Work Details at: 
 [<img src="Image/o2adYm.svg" width="200">](https://imragib.vercel.app/).
+-->
 
 
 ## <img src="Image/audit.png" width="25"> My Github Details
