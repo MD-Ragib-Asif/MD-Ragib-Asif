@@ -2,7 +2,7 @@
 ### I'm Asif
 
 - 🌱 I’m a recent Computer Science and Engineering graduate from BRAC University.
-- 😀 Currently, I’m doing an internship in frontend web development.
+- 😀 Currently, I’m working as a frontend web developer.
 
 ### My Social links:
 [<img src="Image/facebook-app.png" width="30">](https://www.facebook.com/profile.php?id=100008123491899) [<img src="Image/instagram-round-line-color.png" width="30">](https://www.instagram.com/ragib_asif/?hl=en) [<img src="Image/sl_z_072523_61700_01.jpg" width="30">](https://twitter.com/MRagibAsif) [<img src="Image/discord.png" width="30">](https://discord.com/invite/EUkswrpE9y) [<img src="Image/linkedin-round-line-color.png" width="30">](https://www.linkedin.com/in/md-ragib-asif-aa931721b/)
